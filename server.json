@@ -1,0 +1,22 @@
+{
+  "servers": [
+    {
+      "host": "play.vorizon.web.id",
+      "port": "7777",
+      "priority": 0,
+      "logo": "https://raw.githubusercontent.com/fivebspeed-star/samp-client-/refs/heads/main/vorizon-blue.png"
+    },
+    {
+      "host": "31.58.143.55",
+      "port": "7777",
+      "priority": 0,
+      "logo": "https://raw.githubusercontent.com/fivebspeed-star/samp-client-/refs/heads/main/FotoProfil_Futuristic.png"
+    },
+    {
+      "host": "46.174.49.211",
+      "port": "7777",
+      "priority": 0,
+      "logo": "https://GANTI-LINK-HOSTING-KAMU/logo/russia-rp.png"
+    }
+  ]
+}
