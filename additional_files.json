@@ -2,14 +2,14 @@
   "files": [
     {
       "name": "mainV1.scm",
-      "path": "mainV1.scm",
+      "path": "data/mainV1.scm",
       "size": 0,
       "url": "https://github.com/fivebspeed-star/samp-client-/blob/main/data/mainV1.scm",
       "gpu": "all"
     },
     {
       "name": "scriptv1.img",
-      "path": "scriptv1.img",
+      "path": "data/scriptv1.img",
       "size": 0,
       "url": "https://github.com/fivebspeed-star/samp-client-/blob/main/data/scriptv1.img",
       "gpu": "all"
