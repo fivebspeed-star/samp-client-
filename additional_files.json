@@ -1,0 +1,32 @@
+{
+  "files": [
+    {
+      "name": "mainV1.scm",
+      "path": "mainV1.scm",
+      "size": 0,
+      "url": "https://github.com/fivebspeed-star/samp-client-/blob/main/data/mainV1.scm",
+      "gpu": "all"
+    },
+    {
+      "name": "scriptv1.img",
+      "path": "scriptv1.img",
+      "size": 0,
+      "url": "https://github.com/fivebspeed-star/samp-client-/blob/main/data/scriptv1.img",
+      "gpu": "all"
+    },
+    {
+      "name": "gtaweap3.ttf",
+      "path": "fonts/gtaweap3.ttf",
+      "size": 0,
+      "url": "https://github.com/fivebspeed-star/samp-client-/blob/main/fonts/gtaweap3.ttf",
+      "gpu": "all"
+    },
+    {
+      "name": "sampaux3.ttf",
+      "path": "fonts/sampaux3.ttf",
+      "size": 0,
+      "url": "https://github.com/fivebspeed-star/samp-client-/blob/main/fonts/sampaux3.ttf",
+      "gpu": "all"
+    }
+  ]
+}
